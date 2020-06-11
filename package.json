@@ -1,0 +1,15 @@
+{
+  "name": "blockchain_stepone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LI LONG",
+  "license": "MIT",
+  "dependencies": {
+    "bsv": "^1.5.3",
+    "tracer": "^1.1.2"
+  }
+}
