@@ -9,7 +9,7 @@
   "author": "LI LONG",
   "license": "MIT",
   "dependencies": {
-    "bsv": "^1.5.3",
+    "bsv": "^1.5.6",
     "tracer": "^1.1.2"
   }
 }
